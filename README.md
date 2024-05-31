@@ -30,10 +30,10 @@ python manage.py runserver
 ```
 
 ## Features
-Object Detection: Detects various objects in real-time using pre-trained models.
-Depth Estimation: Estimates the depth of objects in images.
-Speech OCR: Converts speech to text using Optical Character Recognition.
-Speech Alerts/Feedback: Provides real-time feedback and alerts via speech.
+- Object Detection: Detects various objects in real-time using pre-trained models.  
+- Depth Estimation: Estimates the depth of objects in images.  
+- Speech OCR: Converts speech to text using Optical Character Recognition.  
+- Speech Alerts/Feedback: Provides real-time feedback and alerts via speech.  
 
 ## Django frontend path
 - /testing
